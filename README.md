@@ -18,11 +18,15 @@ Avant de compiler et d'exécuter ce projet, assurez-vous d'avoir installé les �
 - Un compilateur C (comme `gcc`)
 
 ### Installation de SDL2 sous Linux
-
 ```bash
 sudo apt-get install libsdl2-dev
+```
+  
+#### Compilation
 
-## compilation
 ```bash
 make
+```
+```bash
 ./ludo
+```
