@@ -1,3 +1,4 @@
+[](./assets/screen.png)
 # Projet Jeu de Dé avec SDL2
 
 Ce projet est une introduction à la librairie SDL2 en langage C. Il s'agit de développer un jeu de dé avec une interface graphique simple. Le projet met l'accent sur l'affichage de fenêtres, l'affichage d'images, la création d'animations, et la gestion d'événements.
